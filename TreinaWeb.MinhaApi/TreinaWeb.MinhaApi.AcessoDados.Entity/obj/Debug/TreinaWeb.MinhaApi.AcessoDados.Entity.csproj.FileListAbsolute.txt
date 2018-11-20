@@ -1,0 +1,16 @@
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.dll.config
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.dll
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.pdb
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.Dominio.dll
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\TreinaWeb.MinhaApi.Dominio.pdb
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.csprojAssemblyReference.cache
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.csproj.CopyComplete
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.dll
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.pdb
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.Migrations.CriacaoTabelaAlunos.resources
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.AcessoDados.Entity\obj\Debug\TreinaWeb.MinhaApi.AcessoDados.Entity.csproj.GenerateResource.cache

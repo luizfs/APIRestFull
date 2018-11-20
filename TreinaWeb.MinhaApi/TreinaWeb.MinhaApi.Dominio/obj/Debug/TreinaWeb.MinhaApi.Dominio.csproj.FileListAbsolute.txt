@@ -1,0 +1,6 @@
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\bin\Debug\TreinaWeb.MinhaApi.Dominio.dll
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\bin\Debug\TreinaWeb.MinhaApi.Dominio.pdb
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\obj\Debug\TreinaWeb.MinhaApi.Dominio.csprojAssemblyReference.cache
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\obj\Debug\TreinaWeb.MinhaApi.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\obj\Debug\TreinaWeb.MinhaApi.Dominio.dll
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Dominio\obj\Debug\TreinaWeb.MinhaApi.Dominio.pdb

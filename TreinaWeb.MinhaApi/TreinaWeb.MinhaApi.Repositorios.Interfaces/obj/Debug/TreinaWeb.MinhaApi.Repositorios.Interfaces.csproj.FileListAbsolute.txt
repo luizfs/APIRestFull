@@ -1,0 +1,6 @@
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Repositorios.Interfaces\bin\Debug\TreinaWeb.MinhaApi.Repositorios.Interfaces.dll
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Repositorios.Interfaces\bin\Debug\TreinaWeb.MinhaApi.Repositorios.Interfaces.pdb
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Repositorios.Interfaces\obj\Debug\TreinaWeb.MinhaApi.Repositorios.Interfaces.csprojAssemblyReference.cache
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Repositorios.Interfaces\obj\Debug\TreinaWeb.MinhaApi.Repositorios.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Repositorios.Interfaces\obj\Debug\TreinaWeb.MinhaApi.Repositorios.Interfaces.dll
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.MinhaApi.Repositorios.Interfaces\obj\Debug\TreinaWeb.MinhaApi.Repositorios.Interfaces.pdb

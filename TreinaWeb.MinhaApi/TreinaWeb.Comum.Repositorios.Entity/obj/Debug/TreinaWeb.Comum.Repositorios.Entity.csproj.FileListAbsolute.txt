@@ -1,0 +1,14 @@
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Entity.dll.config
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Entity.dll
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.Comum.Repositorios.Entity.pdb
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.MinhaApi.Repositorios.Interfaces.dll
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\TreinaWeb.MinhaApi.Repositorios.Interfaces.pdb
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.csprojAssemblyReference.cache
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.csproj.CopyComplete
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.dll
+C:\Users\Luiz Fernando Santos\Documents\Projetos\Cursos\APiRest\TreinaWeb.MinhaApi\TreinaWeb.Comum.Repositorios.Entity\obj\Debug\TreinaWeb.Comum.Repositorios.Entity.pdb
